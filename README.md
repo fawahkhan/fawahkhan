@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🌱 Currently learning **Python for AI/ML and Data Science**
-- 💻 Exploring DSA with **Java** | Familiar with C/C++ basics
+- 💻 Exploring DSA with **C++**
 - 🤝 Open to collaborate on **AI/ML and MERN Full Stack WebDev Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, and Python**
 - 📫 Reach me at **khanmohdfawah21@gmail.com**
