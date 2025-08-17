@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawahkhan&layout=compact&theme=github_dark&hide_border=true&count_private=true" width="40%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawahkhan&layout=compact&theme=github_dark&hide_border=false&count_private=true" width="40%" alt="Top Languages" />
       </td>
     </tr>
   </table>
