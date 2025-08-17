@@ -63,12 +63,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=fawahkhan&show_icons=true&theme=github_dark&hide_border=false&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=fawahkhan&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=fawahkhan&theme=github_dark&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawahkhan&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawahkhan&layout=compact&theme=github_dark&hide_border=true&count_private=true" width="40%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -76,10 +76,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawahkhan&theme=react-dark&hide_border=true&area=true&count_private=true"/>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fawahkhan&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fawahkhan&theme=radical&no-frame=true&count_private=true" alt="GitHub Trophies" />
 </p>
 
 ---
