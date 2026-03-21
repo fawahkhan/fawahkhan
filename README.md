@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Fawah Khan 🌊✨</h1>
-<h3 align="center">A passionate Web Developer diving into the World of AI/ML.</h3>
+<h3 align="center">A passionate Full Stack Web Developer diving deeper into interesting technologies</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fawahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-- 🌱 Currently learning **Python for AI/ML and Data Science**
+- 🌱 Currently learning **Advanced Development Techniques**
 - 💻 Exploring DSA with **C++**
-- 🤝 Open to collaborate on **AI/ML and MERN Full Stack WebDev Projects**
+- 🤝 Open to collaborate on **AI/ML and MERN Full Stack Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, and Python**
 - 📫 Reach me at **khanmohdfawah21@gmail.com**
 
