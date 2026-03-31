@@ -74,20 +74,19 @@
   </table>
 </div>
 
----
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawahkhan&theme=react-dark&hide_border=true&area=true&count_private=true"/>
 </p>
 
----
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fawahkhan&theme=radical&no-frame=true&count_private=true" alt="GitHub Trophies" />
 </p>
-
+ -->
 ---
 
 ### ⚡ Fun Fact
