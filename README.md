@@ -11,9 +11,10 @@
 
 - 🌱 Currently learning **Advanced Development Techniques**
 - 💻 Exploring DSA with **C++**
-- 🤝 Open to collaborate on **AI/ML and MERN Full Stack Projects**
+- 🤝 Open to collaborate on **AI/ML, Solana and MERN Full Stack Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, and Python**
 - 📫 Reach me at **khanmohdfawah21@gmail.com**
+Resume: https://drive.google.com/file/d/1czcmwO2GbgQsrSQw7w-5rLYJrPIC-4k_/view?usp=drivesdk
 
 ---
 
