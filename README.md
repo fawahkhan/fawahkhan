@@ -24,9 +24,12 @@
   <a href="https://www.linkedin.com/in/mohdfawahkhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://instagram.com/mohdfawahkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> -->
+  <a href="https://portfolio-project-zeta-peach.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/FawahKhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
 </p>
 
 ---
