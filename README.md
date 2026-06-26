@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-
+- 💻 AI-Intern at Vexoo-AI
 - 🌱 Currently learning **Advanced Development Techniques**
 - 💻 Exploring DSA with **C++**
 - 🤝 Open to collaborate on **AI/ML, Solana and MERN Full Stack Projects**
