@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🌱 Currently learning **Advanced Development Techniques**
+- 🌱 Currently learning **Advanced Development Techniques** 
 - 💻 Exploring DSA with **C++**
 - 🤝 Open to collaborate on **AI/ML and MERN Full Stack Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, and Python**
