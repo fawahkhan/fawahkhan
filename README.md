@@ -12,7 +12,7 @@ Most of my projects are full-stack web apps. I reach for React on the frontend a
 
 Reach me at **khanmohdfawah21@gmail.com**
 
-I’m open to collaborating on MERN or AI/ML projects. If you have something in mind, email me and tell me what you’re building. I’d also appreciate a second pair of eyes on my [resume](https://drive.google.com/file/d/1mLFHlc5JG9rHuUaUtJZz4bMP-ed16A9z/view?usp=sharing).
+I’m open to collaborating on Full Stack or AI projects. If you have something in mind, email me and tell me what you’re building. I’d also appreciate a second pair of eyes on my [resume](https://drive.google.com/file/d/1mLFHlc5JG9rHuUaUtJZz4bMP-ed16A9z/view?usp=sharing).
 
 ---
 
