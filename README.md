@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-Most of my projects are full-stack web apps. I reach for React on the frontend and Node.js, Express, and MongoDB on the backend. Lately I’ve been exploring machine learning with Python and working through data structures and algorithms in C++.
+Most of my projects are full-stack web apps. I reach for React on the frontend and Node.js, Express, and MongoDB on the backend. Lately I’ve been exploring AI and working through Data structures and Algorithms in C++.
 
 Reach me at **khanmohdfawah21@gmail.com**
 
