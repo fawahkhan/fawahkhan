@@ -7,13 +7,12 @@
 
 ---
 
-### 🧠 About Me
-- 🌱 Currently learning **Advanced Development Techniques** 
-- 💻 Exploring DSA with **C++**
-- 🤝 Open to collaborate on **AI/ML and MERN Full Stack Projects**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, and Python**
-- 📫 Reach me at **khanmohdfawah21@gmail.com**
-- Resume: <a href= "https://drive.google.com/file/d/1czcmwO2GbgQsrSQw7w-5rLYJrPIC-4k_/view?usp=drivesdk">Drive link</a>
+### About Me
+Most of my projects are full-stack web apps. I reach for React on the frontend and Node.js, Express, and MongoDB on the backend. Lately I’ve been exploring machine learning with Python and working through data structures and algorithms in C++.
+
+Reach me at **khanmohdfawah21@gmail.com**
+
+I’m open to collaborating on MERN or AI/ML projects. If you have something in mind, email me and tell me what you’re building. I’d also appreciate a second pair of eyes on my [resume](https://drive.google.com/file/d/1mLFHlc5JG9rHuUaUtJZz4bMP-ed16A9z/view?usp=sharing).
 
 ---
 
